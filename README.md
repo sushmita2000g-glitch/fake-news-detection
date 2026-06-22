@@ -141,3 +141,4 @@ Aspiring Data Scientist | Machine Learning Enthusiast
 ## Deployment
 
 The application is deployed on Streamlit Cloud and can be accessed through the public Streamlit URL.
+Here is the link- https://fake-news-detection-893dbnmoiqwloxcxjnowge.streamlit.app/
